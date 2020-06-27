@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: SR
+title: SR Design Space
 subtitle: 'HERE'
 description: 'MY DESIGN '
 keywords: PRODUCT
@@ -12,9 +12,10 @@ language: en
 timezone: '0025'
 
 menu:
-  works: https://www.srdesign.space/
-  about: /about
+  my works: https://www.srdesign.space/
+  thoughts: https://www.srdesign.space/
   sources: https://www.srdesign.space/
+  about: /about
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
