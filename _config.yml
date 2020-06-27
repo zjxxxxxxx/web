@@ -13,8 +13,8 @@ timezone: '0025'
 
 menu:
   my works: https://www.srdesign.space/
-  thoughts: https://www.srdesign.space/
-  sources: https://www.srdesign.space/
+  thoughts: /thoughts
+  sources: /sources
   about: /about
 
 # URL

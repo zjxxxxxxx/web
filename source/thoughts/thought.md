@@ -1,11 +1,11 @@
 ---
-title: source
+title: thought
 # type: "about"
 # layout: "about"
 
 ---
 
-### 关于source
+### 关于thought
 
 
 
