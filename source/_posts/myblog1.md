@@ -1,5 +1,5 @@
 ---
-title: myblog
+title: 装置艺术
 # date: 2020-06-23 16:14:03
 # tags:
 ---
