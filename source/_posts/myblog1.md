@@ -1,5 +1,6 @@
 ---
 title: 装置艺术
+cover_image: images/zz1.jpg
 # date: 2020-06-23 16:14:03
 # tags:
 ---
