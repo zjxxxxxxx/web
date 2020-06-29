@@ -1,7 +1,8 @@
 ---
 title: 柯布西耶的一些手法
 cover_image: images/kebu.jpg
-
+categories:
+    - thoughts
 #date: 2020-06-29 16:31:48
 #tags:
 ---

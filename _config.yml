@@ -12,8 +12,8 @@ language: en
 timezone: Asia/Shanghai
 
 menu:
-  works: /works
-  thoughts: /thoughts
+  works: /categories/works
+  thoughts: /categories/thoughts
   sources: /sources
   about: /about
 
