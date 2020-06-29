@@ -1,10 +1,8 @@
 ---
 title: 南极小游戏
 cover_image: images/nanji.jpg
-tags: my works
-categories:
--works
----
+
+
  ### 关于南极科普的小游戏
 
 南极可不只有企鹅~
