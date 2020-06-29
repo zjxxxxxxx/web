@@ -1,6 +1,6 @@
 ---
 title: A detail
-cover_image: images/kebu.jpg
+cover_image: images/detail.jpg
 date: 2020-06-29 17:21:00
 tags:
 ---
