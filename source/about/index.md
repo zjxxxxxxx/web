@@ -5,8 +5,12 @@ title: about
 
 ---
 
-### 关于我
+### About me
 
+#### A student major in industry design
 
+#### Sharing some works and ideas......
+####        
+E-mail: 2507264915@qq.com
 
-我是....,
+Wechat :Zhuuuuuuuj-
