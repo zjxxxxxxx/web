@@ -12,7 +12,7 @@ language: en
 timezone: Asia/Shanghai
 
 menu:
-  my works: https://www.srdesign.space/
+  works: /works
   thoughts: /thoughts
   sources: /sources
   about: /about
